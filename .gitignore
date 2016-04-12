@@ -1,0 +1,8 @@
+*~
+*.elc
+/url
+/savefile
+/elpa
+/server
+/history
+\#*#
